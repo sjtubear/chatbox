@@ -27,6 +27,7 @@ namespace WindowsFormsApplication5
             this.Name = userName;
             this.Text = userName;
             this.label3.Text = "I am " + userName;
+
         }
 
         public  void showMessasge(string temp)
